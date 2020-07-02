@@ -173,7 +173,7 @@ p {
     margin: 3% 3%;
   }
 
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
 }
